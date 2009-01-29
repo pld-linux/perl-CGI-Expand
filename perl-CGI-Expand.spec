@@ -10,9 +10,8 @@ Summary:	CGI::Expand - convert flat hash to nested data using TT2's dot conventi
 Name:		perl-CGI-Expand
 Version:	2.02
 Release:	1
-# same as perl (REMOVE THIS LINE IF NOT TRUE)
-#License:	GPL v1+ or Artistic
-License:	unknown
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CGI/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	9eb20cf962df24056687b2152bdc5b70
