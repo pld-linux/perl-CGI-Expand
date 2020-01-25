@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	CGI
 %define	pnam	Expand
 Summary:	CGI::Expand - convert flat hash to nested data using TT2's dot convention
